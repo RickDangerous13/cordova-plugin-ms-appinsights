@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MSOpenTech/cordova-plugin-appinsights.git"
+    "url": "git+https://github.com/RickDangerous13/cordova-plugin-ms-appinsights.git"
   },
   "keywords": [
     "microsoft",
@@ -27,7 +27,7 @@
   "author": "MSOpenTech",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/MSOpenTech/cordova-plugin-appinsights/issues"
+    "url": "https://github.com/RickDangerous13/cordova-plugin-ms-appinsights/issues"
   },
-  "homepage": "https://github.com/MSOpenTech/cordova-plugin-appinsights#readme"
+  "homepage": "https://github.com/RickDangerous13/cordova-plugin-ms-appinsights#readme"
 }
